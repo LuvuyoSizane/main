@@ -13,6 +13,6 @@ namespace Data_Access_Layer.Interface
 
         public PictureDetail RetrivePicture(int id);
 
-        public IEnumerable<PictureDetail> RetrivePictureAll();
+        public IEnumerable<PictureDetail> RetriveAllPictures();
     }
 }

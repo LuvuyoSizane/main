@@ -43,7 +43,7 @@ namespace PictureAppBackend.Controllers
         {
             try
             {
-                return new JsonResult(_pService.RetrivePictureAll());
+                return new JsonResult(_pService.RetriveAllPictures());
 
             }
             catch (Exception ex)
@@ -58,7 +58,7 @@ namespace PictureAppBackend.Controllers
         [Route("GetPicture/{id}")]
         public JsonResult GetPicture(int id)
         {
-            return new JsonResult(_pService.RetrivePicture(id));
+            return new JsonResult(_pService.RetrivePicture(id) );
         }
 
     }

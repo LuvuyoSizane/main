@@ -29,7 +29,7 @@ namespace Data_Access_Layer.Repository
             return _db.Pictures.Find(id);
         }
 
-        public IEnumerable<PictureDetail> RetrivePictureAll()
+        public IEnumerable<PictureDetail> RetriveAllPictures()
         {
             return _db.Pictures;
         }

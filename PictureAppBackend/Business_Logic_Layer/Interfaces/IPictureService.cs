@@ -13,6 +13,6 @@ namespace Business_Logic_Layer.Interfaces
 
         public PictureDetail RetrivePicture(int id);
 
-        public IEnumerable<PictureDetail> RetrivePictureAll();
+        public IEnumerable<PictureDetail> RetriveAllPictures();
     }
 }

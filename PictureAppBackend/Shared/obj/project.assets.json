@@ -2013,11 +2013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\Picture App\\PictureAppBackend\\Shared\\Shared.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\Shared.csproj",
       "projectName": "Shared",
-      "projectPath": "C:\\Users\\User\\Documents\\Picture App\\PictureAppBackend\\Shared\\Shared.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\Shared.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\Picture App\\PictureAppBackend\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

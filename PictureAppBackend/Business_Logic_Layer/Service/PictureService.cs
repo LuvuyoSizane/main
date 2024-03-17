@@ -28,9 +28,9 @@ namespace Business_Logic_Layer.Service
          return pr.RetrivePicture(id);
         }
 
-        public IEnumerable<PictureDetail> RetrivePictureAll()
+        public IEnumerable<PictureDetail> RetriveAllPictures()
         {
-            return pr.RetrivePictureAll();
+            return pr.RetriveAllPictures();
         }
     }
 }
