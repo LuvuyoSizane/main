@@ -1925,19 +1925,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\luvuy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj",
+      "projectUniqueName": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj",
       "projectName": "Data_Access_Layer",
-      "projectPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Data_Access_Layer\\obj\\",
+      "projectPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj",
+      "packagesPath": "C:\\Users\\luvuy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Data_Access_Layer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luvuy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1951,8 +1951,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\Shared.csproj": {
-              "projectPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\Shared.csproj"
+            "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Shared\\Shared.csproj"
             }
           }
         }
@@ -1987,7 +1987,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

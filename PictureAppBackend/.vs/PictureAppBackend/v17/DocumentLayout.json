@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\",
+  "WorkspaceRootPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00B4E971-6980-4C9A-952D-B41356A804C9}|PictureAppBackend\\PictureAppBackend.csproj|c:\\users\\user\\documents\\pictureapp\\pictureappbackend\\pictureappbackend\\controllers\\picturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00B4E971-6980-4C9A-952D-B41356A804C9}|PictureAppBackend\\PictureAppBackend.csproj|solutionrelative:pictureappbackend\\controllers\\picturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B981FA6B-6E58-4F6E-99E0-44E6B7D59921}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\user\\documents\\pictureapp\\pictureappbackend\\data_access_layer\\repository\\picturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B981FA6B-6E58-4F6E-99E0-44E6B7D59921}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\pictureappbackend\\data_access_layer\\repository\\picturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B981FA6B-6E58-4F6E-99E0-44E6B7D59921}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\picturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B981FA6B-6E58-4F6E-99E0-44E6B7D59921}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\user\\documents\\pictureapp\\pictureappbackend\\data_access_layer\\interface\\ipicturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B981FA6B-6E58-4F6E-99E0-44E6B7D59921}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\pictureappbackend\\data_access_layer\\interface\\ipicturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B981FA6B-6E58-4F6E-99E0-44E6B7D59921}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\interface\\ipicturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3484D5C7-27AE-426D-A049-1140E4051716}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\user\\documents\\pictureapp\\pictureappbackend\\business_logic_layer\\service\\pictureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3484D5C7-27AE-426D-A049-1140E4051716}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\service\\pictureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66F1F65A-FA9E-4A27-B31F-3A0D51B0395E}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\pictureappbackend\\shared\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F1F65A-FA9E-4A27-B31F-3A0D51B0395E}|Shared\\Shared.csproj|solutionrelative:shared\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3484D5C7-27AE-426D-A049-1140E4051716}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\user\\documents\\pictureapp\\pictureappbackend\\business_logic_layer\\interfaces\\ipictureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66F1F65A-FA9E-4A27-B31F-3A0D51B0395E}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\pictureappbackend\\shared\\models\\picturedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F1F65A-FA9E-4A27-B31F-3A0D51B0395E}|Shared\\Shared.csproj|solutionrelative:shared\\models\\picturedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3484D5C7-27AE-426D-A049-1140E4051716}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\pictureappbackend\\business_logic_layer\\interfaces\\ipictureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3484D5C7-27AE-426D-A049-1140E4051716}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\interfaces\\ipictureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66F1F65A-FA9E-4A27-B31F-3A0D51B0395E}|Shared\\Shared.csproj|c:\\users\\user\\documents\\pictureapp\\pictureappbackend\\shared\\models\\picturedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66F1F65A-FA9E-4A27-B31F-3A0D51B0395E}|Shared\\Shared.csproj|solutionrelative:shared\\models\\picturedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00B4E971-6980-4C9A-952D-B41356A804C9}|PictureAppBackend\\PictureAppBackend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\pictureappbackend\\pictureappbackend\\controllers\\picturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B4E971-6980-4C9A-952D-B41356A804C9}|PictureAppBackend\\PictureAppBackend.csproj|solutionrelative:pictureappbackend\\controllers\\picturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3484D5C7-27AE-426D-A049-1140E4051716}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\pictureappbackend\\business_logic_layer\\service\\pictureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3484D5C7-27AE-426D-A049-1140E4051716}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\service\\pictureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +38,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Shared\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Shared\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Shared\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Shared\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:45:42.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PicturesController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\PictureAppBackend\\Controllers\\PicturesController.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\PictureAppBackend\\Controllers\\PicturesController.cs",
               "RelativeDocumentMoniker": "PictureAppBackend\\Controllers\\PicturesController.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\PictureAppBackend\\Controllers\\PicturesController.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\PictureAppBackend\\Controllers\\PicturesController.cs",
               "RelativeToolTip": "PictureAppBackend\\Controllers\\PicturesController.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAADwAAAA/AAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAADwAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T12:28:08.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PictureRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Data_Access_Layer\\Repository\\PictureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Data_Access_Layer\\Repository\\PictureRepository.cs",
               "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\PictureRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Data_Access_Layer\\Repository\\PictureRepository.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Data_Access_Layer\\Repository\\PictureRepository.cs",
               "RelativeToolTip": "Data_Access_Layer\\Repository\\PictureRepository.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwCIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T12:27:52.349Z"
+              "WhenOpened": "2024-03-17T12:27:52.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPictureRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Data_Access_Layer\\Interface\\IPictureRepository.cs",
-              "RelativeDocumentMoniker": "Data_Access_Layer\\Interface\\IPictureRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Data_Access_Layer\\Interface\\IPictureRepository.cs",
-              "RelativeToolTip": "Data_Access_Layer\\Interface\\IPictureRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "DocumentIndex": 4,
+              "Title": "IPictureService.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Business_Logic_Layer\\Interfaces\\IPictureService.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\Interfaces\\IPictureService.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Business_Logic_Layer\\Interfaces\\IPictureService.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\Interfaces\\IPictureService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T12:27:42.311Z"
+              "WhenOpened": "2024-03-17T12:27:06.972Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "PictureDetail.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Shared\\Models\\PictureDetail.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\PictureDetail.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Shared\\Models\\PictureDetail.cs",
+              "RelativeToolTip": "Shared\\Models\\PictureDetail.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T12:02:09.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPictureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Data_Access_Layer\\Interface\\IPictureRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Interface\\IPictureRepository.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Data_Access_Layer\\Interface\\IPictureRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Interface\\IPictureRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T12:27:42.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PictureService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Business_Logic_Layer\\Service\\PictureService.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Business_Logic_Layer\\Service\\PictureService.cs",
               "RelativeDocumentMoniker": "Business_Logic_Layer\\Service\\PictureService.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Business_Logic_Layer\\Service\\PictureService.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Business_Logic_Layer\\Service\\PictureService.cs",
               "RelativeToolTip": "Business_Logic_Layer\\Service\\PictureService.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAACAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T12:27:22.834Z"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IPictureService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Business_Logic_Layer\\Interfaces\\IPictureService.cs",
-              "RelativeDocumentMoniker": "Business_Logic_Layer\\Interfaces\\IPictureService.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Business_Logic_Layer\\Interfaces\\IPictureService.cs",
-              "RelativeToolTip": "Business_Logic_Layer\\Interfaces\\IPictureService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T12:27:06.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PictureDetail.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\Models\\PictureDetail.cs",
-              "RelativeDocumentMoniker": "Shared\\Models\\PictureDetail.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\Models\\PictureDetail.cs",
-              "RelativeToolTip": "Shared\\Models\\PictureDetail.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T12:02:09.603Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

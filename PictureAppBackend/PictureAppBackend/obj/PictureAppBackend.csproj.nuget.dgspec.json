@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\PictureAppBackend\\PictureAppBackend.csproj": {}
+    "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\PictureAppBackend\\PictureAppBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Business_Logic_Layer\\Business_Logic_Layer.csproj": {
+    "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Business_Logic_Layer\\Business_Logic_Layer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Business_Logic_Layer\\Business_Logic_Layer.csproj",
+        "projectUniqueName": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Business_Logic_Layer\\Business_Logic_Layer.csproj",
         "projectName": "Business_Logic_Layer",
-        "projectPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Business_Logic_Layer\\Business_Logic_Layer.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Business_Logic_Layer\\obj\\",
+        "projectPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Business_Logic_Layer\\Business_Logic_Layer.csproj",
+        "packagesPath": "C:\\Users\\luvuy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Business_Logic_Layer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luvuy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj"
+              "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj": {
+                "projectPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj"
               },
-              "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\Shared.csproj"
+              "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Shared\\Shared.csproj"
               }
             }
           }
@@ -67,21 +67,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj": {
+    "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj",
+        "projectUniqueName": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj",
         "projectName": "Data_Access_Layer",
-        "projectPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Data_Access_Layer\\obj\\",
+        "projectPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj",
+        "packagesPath": "C:\\Users\\luvuy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Data_Access_Layer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luvuy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,8 +95,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\Shared.csproj"
+              "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Shared\\Shared.csproj"
               }
             }
           }
@@ -131,21 +131,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\PictureAppBackend\\PictureAppBackend.csproj": {
+    "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\PictureAppBackend\\PictureAppBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\PictureAppBackend\\PictureAppBackend.csproj",
+        "projectUniqueName": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\PictureAppBackend\\PictureAppBackend.csproj",
         "projectName": "PictureAppBackend",
-        "projectPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\PictureAppBackend\\PictureAppBackend.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\PictureAppBackend\\obj\\",
+        "projectPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\PictureAppBackend\\PictureAppBackend.csproj",
+        "packagesPath": "C:\\Users\\luvuy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\PictureAppBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luvuy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -159,14 +159,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Business_Logic_Layer\\Business_Logic_Layer.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Business_Logic_Layer\\Business_Logic_Layer.csproj"
+              "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Business_Logic_Layer\\Business_Logic_Layer.csproj": {
+                "projectPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Business_Logic_Layer\\Business_Logic_Layer.csproj"
               },
-              "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj"
+              "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj": {
+                "projectPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Data_Access_Layer\\Data_Access_Layer.csproj"
               },
-              "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\Shared.csproj"
+              "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Shared\\Shared.csproj"
               }
             }
           }
@@ -228,21 +228,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\Shared.csproj": {
+    "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\PictureApp\\PictureAppBackend\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\luvuy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\PictureAppBackend\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luvuy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -304,7 +304,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

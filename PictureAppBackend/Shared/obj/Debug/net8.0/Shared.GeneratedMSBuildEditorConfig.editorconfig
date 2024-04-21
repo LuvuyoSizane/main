@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Shared
-build_property.ProjectDir = C:\Users\User\Documents\PictureApp\PictureAppBackend\Shared\
+build_property.ProjectDir = C:\Users\luvuy\OneDrive\Documents\GitHubProjects\main\PictureAppBackend\Shared\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
