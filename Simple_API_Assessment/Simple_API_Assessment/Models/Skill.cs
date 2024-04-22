@@ -10,7 +10,7 @@ namespace Simple_API_Assessment.Models
         public string Name { get; set; }
         [ForeignKey("Applicant")]
         public int ApplicantId { get; set; }
-        //navigation properties
+        //navigation properties 
         public Applicant Applicant { get; set; }
     }
 }

@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json.Serialization;
 using Simple_API_Assessment.Data;
+using Simple_API_Assessment.Data.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +17,13 @@ builder.Services.AddDbContext<DataContext>(options =>
 options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnections"))
 ) ;
 
+builder.Services.AddTransient<IApplicantRepository, ApplicantRepo>();
+
+builder.Services.AddControllers().AddNewtonsoftJson(
+                options => options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore).AddNewtonsoftJson(
+                options => options.SerializerSettings.ContractResolver = new DefaultContractResolver());
+builder.Services.AddCors();
+
 
 var app = builder.Build();
 
@@ -25,10 +34,15 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseCors(options => options.AllowAnyHeader().AllowAnyOrigin().AllowAnyMethod());
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
 app.MapControllers();
+
+//Seed Database
+DataInitializer.Seed(app);
 
 app.Run();
