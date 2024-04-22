@@ -11,8 +11,8 @@ using Simple_API_Assessment.Data;
 namespace Simple_API_Assessment.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20240422121955_InitMigration")]
-    partial class InitMigration
+    [Migration("20240422132140_InitialMigration")]
+    partial class InitialMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -68,7 +68,7 @@ namespace Simple_API_Assessment.Migrations
                     b.HasOne("Simple_API_Assessment.Models.Applicant", "Applicant")
                         .WithMany("Skills")
                         .HasForeignKey("ApplicantId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
 
                     b.Navigation("Applicant");

@@ -28,7 +28,8 @@ namespace Simple_API_Assessment.Data
                 entity.Property(a => a.Name).IsRequired();
                 entity.HasOne(s => s.Applicant)
                 .WithMany(a => a.Skills)
-                .HasForeignKey(a=>a.ApplicantId);
+                .HasForeignKey(a=>a.ApplicantId)
+                .OnDelete(DeleteBehavior.NoAction);
 
             });
         }

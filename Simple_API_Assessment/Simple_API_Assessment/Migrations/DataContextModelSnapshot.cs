@@ -65,7 +65,7 @@ namespace Simple_API_Assessment.Migrations
                     b.HasOne("Simple_API_Assessment.Models.Applicant", "Applicant")
                         .WithMany("Skills")
                         .HasForeignKey("ApplicantId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
 
                     b.Navigation("Applicant");
