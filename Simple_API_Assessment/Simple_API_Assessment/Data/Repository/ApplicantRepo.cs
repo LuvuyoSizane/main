@@ -1,4 +1,5 @@
-﻿using Simple_API_Assessment.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using Simple_API_Assessment.Models;
 using System;
 
 namespace Simple_API_Assessment.Data.Repository
@@ -20,12 +21,15 @@ namespace Simple_API_Assessment.Data.Repository
 
         public Applicant RetriveSpecificApplicant(int id)
         {
-            return _db.Applicants.Find(id);
+            var applicant = _db.Applicants.Include(a => a.Skills).SingleOrDefault(a => a.Id == id);
+            return applicant;
         }
 
         public IEnumerable<Applicant> RetriveAllApplicants()
         {
-            return _db.Applicants;
+            var applicants = _db.Applicants.Include(a => a.Skills).ToList();
+            return applicants;
+
         }
 
         public void UpdateApplicant(Applicant applicant)
