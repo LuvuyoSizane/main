@@ -17,7 +17,7 @@ namespace Simple_API_Assessment.Migrations
                 {
                     Id = table.Column<int>(type: "integer", nullable: false)
                         .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
-                    Name = table.Column<string>(type: "text", nullable: false)
+                    Name = table.Column<string>(type: "text", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -30,7 +30,7 @@ namespace Simple_API_Assessment.Migrations
                 {
                     Id = table.Column<int>(type: "integer", nullable: false)
                         .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
-                    Name = table.Column<string>(type: "text", nullable: false),
+                    Name = table.Column<string>(type: "text", nullable: true),
                     ApplicantId = table.Column<int>(type: "integer", nullable: false)
                 },
                 constraints: table =>
@@ -40,7 +40,8 @@ namespace Simple_API_Assessment.Migrations
                         name: "FK_Skills_Applicants_ApplicantId",
                         column: x => x.ApplicantId,
                         principalTable: "Applicants",
-                        principalColumn: "Id");
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateIndex(

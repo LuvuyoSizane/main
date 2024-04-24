@@ -11,7 +11,7 @@ using Simple_API_Assessment.Data;
 namespace Simple_API_Assessment.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20240422132140_InitialMigration")]
+    [Migration("20240424114613_InitialMigration")]
     partial class InitialMigration
     {
         /// <inheritdoc />
@@ -33,7 +33,6 @@ namespace Simple_API_Assessment.Migrations
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("text");
 
                     b.HasKey("Id");
@@ -53,7 +52,6 @@ namespace Simple_API_Assessment.Migrations
                         .HasColumnType("integer");
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("text");
 
                     b.HasKey("Id");
@@ -65,13 +63,11 @@ namespace Simple_API_Assessment.Migrations
 
             modelBuilder.Entity("Simple_API_Assessment.Models.Skill", b =>
                 {
-                    b.HasOne("Simple_API_Assessment.Models.Applicant", "Applicant")
+                    b.HasOne("Simple_API_Assessment.Models.Applicant", null)
                         .WithMany("Skills")
                         .HasForeignKey("ApplicantId")
-                        .OnDelete(DeleteBehavior.NoAction)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("Applicant");
                 });
 
             modelBuilder.Entity("Simple_API_Assessment.Models.Applicant", b =>

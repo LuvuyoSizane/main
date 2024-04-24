@@ -30,7 +30,6 @@ namespace Simple_API_Assessment.Migrations
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("text");
 
                     b.HasKey("Id");
@@ -50,7 +49,6 @@ namespace Simple_API_Assessment.Migrations
                         .HasColumnType("integer");
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("text");
 
                     b.HasKey("Id");
@@ -62,13 +60,11 @@ namespace Simple_API_Assessment.Migrations
 
             modelBuilder.Entity("Simple_API_Assessment.Models.Skill", b =>
                 {
-                    b.HasOne("Simple_API_Assessment.Models.Applicant", "Applicant")
+                    b.HasOne("Simple_API_Assessment.Models.Applicant", null)
                         .WithMany("Skills")
                         .HasForeignKey("ApplicantId")
-                        .OnDelete(DeleteBehavior.NoAction)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("Applicant");
                 });
 
             modelBuilder.Entity("Simple_API_Assessment.Models.Applicant", b =>
