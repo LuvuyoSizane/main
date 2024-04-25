@@ -21,15 +21,12 @@ namespace Simple_API_Assessment.Data.Repository
 
         public Applicant RetriveSpecificApplicant(int id)
         {
-            var applicant = _db.Applicants.Include(a => a.Skills).SingleOrDefault(a => a.Id == id);
-            return applicant;
+            return _db.Applicants.Include(a => a.Skills).SingleOrDefault(a => a.Id == id);    
         }
 
         public IEnumerable<Applicant> RetriveAllApplicants()
         {
-            var applicants = _db.Applicants.Include(a => a.Skills).ToList();
-            return applicants;
-
+            return _db.Applicants.Include(a => a.Skills).ToList();
         }
 
         public void UpdateApplicant(Applicant applicant)
