@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const port = 3000;
-
+const fs = require('fs');
 const uniqueUsers = require('./uniqueUsers.json');
 const orderedUsers = require('./orderedUsers.json')
 
@@ -22,7 +22,8 @@ app.post('/adduser', (req, res) => {
 
       uniqueUsers.push({ id,name,surname,designation,department });
       res.json({ message: 'User added successfully!' });
-      
+      fs.writeFileSync('uniqueUsers.json', JSON.stringify(uniqueUsers, null, 2));
+      console.log('User added successfully!' );
       }
       catch(err) {
          console.log(err)
@@ -41,6 +42,8 @@ app.put('/updateuser/:id', (req, res) => {
       userToUpdate.designation=designation;
       userToUpdate.department=department;
       res.json({ message: 'User updated successfully!' });
+      fs.writeFileSync('uniqueUsers.json', JSON.stringify(uniqueUsers, null, 2));
+      console.log('User added successfully!' );
     } else {
       res.status(404).json({ error: 'User not found' });
     }
