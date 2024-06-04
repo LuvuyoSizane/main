@@ -43,7 +43,7 @@ app.put('/updateuser/:id', (req, res) => {
       userToUpdate.department=department;
       res.json({ message: 'User updated successfully!' });
       fs.writeFileSync('uniqueUsers.json', JSON.stringify(uniqueUsers, null, 2));
-      console.log('User added successfully!' );
+      console.log('User updated successfully!' );
     } else {
       res.status(404).json({ error: 'User not found' });
     }
