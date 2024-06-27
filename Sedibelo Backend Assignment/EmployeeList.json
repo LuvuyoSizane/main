@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Luvuyo",
+    "email": "Luvuyo@gmail.com",
+    "phone": "0243443421"
+  },
+  {
+    "id": "2",
+    "name": "Shimza",
+    "email": "Shiom@gmail.com",
+    "phone": "0899394922"
+  },
+  {
+    "id": "3",
+    "name": "Buyi",
+    "email": "Buyi@gmail.com",
+    "phone": "09882"
+  },
+  {
+    "id": "4",
+    "name": "Test",
+    "email": "titi.fab.obasa@gmail.com",
+    "phone": "623732281981"
+  }
+]
