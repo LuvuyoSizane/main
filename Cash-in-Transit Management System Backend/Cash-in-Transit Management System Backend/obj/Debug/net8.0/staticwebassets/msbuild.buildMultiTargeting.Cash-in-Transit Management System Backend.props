@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cash-in-Transit Management System Backend.props" />
+</Project>

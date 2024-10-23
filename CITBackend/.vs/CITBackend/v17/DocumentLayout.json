@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\citbackend\\citbackend\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|solutionrelative:citbackend\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\citbackend\\citbackend\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|solutionrelative:citbackend\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\citbackend\\citbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|solutionrelative:citbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\citbackend\\citbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|solutionrelative:citbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\citbackend\\citbackend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|solutionrelative:citbackend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\citbackend\\citbackend\\citbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|solutionrelative:citbackend\\citbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\citbackend\\citbackend\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|solutionrelative:citbackend\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\citbackend\\citbackend\\repositories\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|solutionrelative:citbackend\\repositories\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\citbackend\\citbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6E8652-EDA2-433C-A11F-3F77E9A7AE91}|CITBackend\\CITBackend.csproj|solutionrelative:citbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\Model\\Login.cs",
+              "RelativeDocumentMoniker": "CITBackend\\Model\\Login.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\Model\\Login.cs",
+              "RelativeToolTip": "CITBackend\\Model\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:19:08.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "CITBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\appsettings.json",
+              "RelativeToolTip": "CITBackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-21T13:11:42.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\Program.cs",
+              "RelativeDocumentMoniker": "CITBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\Program.cs",
+              "RelativeToolTip": "CITBackend\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:10:15.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "CITBackend\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "CITBackend\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:03:33.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "CITBackend\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "CITBackend\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:53:58.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\Model\\User.cs",
+              "RelativeDocumentMoniker": "CITBackend\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\Model\\User.cs",
+              "RelativeToolTip": "CITBackend\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:52:02.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "CITBackend\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "CITBackend\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:51:46.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\Repositories\\AuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "CITBackend\\Repositories\\AuthenticationRepository.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\Repositories\\AuthenticationRepository.cs",
+              "RelativeToolTip": "CITBackend\\Repositories\\AuthenticationRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:51:27.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CITBackend",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\CITBackend.csproj",
+              "RelativeDocumentMoniker": "CITBackend\\CITBackend.csproj",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\CITBackend\\CITBackend\\CITBackend.csproj",
+              "RelativeToolTip": "CITBackend\\CITBackend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T12:49:41.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

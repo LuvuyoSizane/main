@@ -1,0 +1,6 @@
+@CITBackend_HostAddress = http://localhost:5247
+
+GET {{CITBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

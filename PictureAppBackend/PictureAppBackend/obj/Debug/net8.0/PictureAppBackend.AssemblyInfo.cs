@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PictureAppBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d25aa197bad57a2d34927e386493762c1acfdf7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PictureAppBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PictureAppBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

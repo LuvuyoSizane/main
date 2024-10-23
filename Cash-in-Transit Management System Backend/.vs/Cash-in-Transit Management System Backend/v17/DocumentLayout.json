@@ -1,0 +1,741 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\shared\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|solutionrelative:shared\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\cash-in-transit management system backend\\controllers\\uservehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|solutionrelative:cash-in-transit management system backend\\controllers\\uservehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\data_access_layer\\interfaces\\imanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\interfaces\\imanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\data_access_layer\\repository\\managementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\managementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\data_access_layer\\repository\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\business_access_layer\\service\\managementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|solutionrelative:business_access_layer\\service\\managementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\data_access_layer\\repository\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\business_access_layer\\service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|solutionrelative:business_access_layer\\service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\cash-in-transit management system backend\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|solutionrelative:cash-in-transit management system backend\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\cash-in-transit management system backend\\controllers\\incidentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|solutionrelative:cash-in-transit management system backend\\controllers\\incidentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\shared\\models\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|solutionrelative:shared\\models\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\shared\\migrations\\20240730081517_chamigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|solutionrelative:shared\\migrations\\20240730081517_chamigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\shared\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|solutionrelative:shared\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\data_access_layer\\repository\\incidentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\incidentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\data_access_layer\\interfaces\\iincidentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\interfaces\\iincidentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\business_access_layer\\service\\incidentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|solutionrelative:business_access_layer\\service\\incidentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\business_access_layer\\interfaces\\iincidentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|solutionrelative:business_access_layer\\interfaces\\iincidentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\business_access_layer\\service\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|solutionrelative:business_access_layer\\service\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\data_access_layer\\interfaces\\irouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\interfaces\\irouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\cash-in-transit management system backend\\controllers\\schedulingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|solutionrelative:cash-in-transit management system backend\\controllers\\schedulingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\cash-in-transit management system backend\\controllers\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|solutionrelative:cash-in-transit management system backend\\controllers\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\business_access_layer\\interfaces\\ischedulingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|solutionrelative:business_access_layer\\interfaces\\ischedulingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\business_access_layer\\service\\schedulingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|solutionrelative:business_access_layer\\service\\schedulingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\data_access_layer\\repository\\schedulingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\schedulingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\data_access_layer\\interfaces\\ischedulingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\interfaces\\ischedulingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\cash-in-transit management system backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|solutionrelative:cash-in-transit management system backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\cash-in-transit management system backend\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|solutionrelative:cash-in-transit management system backend\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\business_access_layer\\interfaces\\imanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|solutionrelative:business_access_layer\\interfaces\\imanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\business_access_layer\\interfaces\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|solutionrelative:business_access_layer\\interfaces\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\data_access_layer\\interfaces\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5DBDE4-1E5C-484F-B315-FE07978C7C1B}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\interfaces\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\business_access_layer\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DDE7FD-EBA4-4086-852B-7512418C925F}|Business_Access_Layer\\Business_Access_Layer.csproj|solutionrelative:business_access_layer\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\shared\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|solutionrelative:shared\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\shared\\models\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|solutionrelative:shared\\models\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\shared\\models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|solutionrelative:shared\\models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\shared\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|solutionrelative:shared\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\shared\\models\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|solutionrelative:shared\\models\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\cash-in-transit management system backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|solutionrelative:cash-in-transit management system backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\cash-in-transit management system backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|solutionrelative:cash-in-transit management system backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\cash-in-transit management system backend\\cash-in-transit management system backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F44A14D8-FCF1-4A37-98F3-686044AF3144}|Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj|solutionrelative:cash-in-transit management system backend\\cash-in-transit management system backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\shared\\migrations\\20240725092331_fmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|solutionrelative:shared\\migrations\\20240725092331_fmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\shared\\migrations\\20240725094156_fimigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|solutionrelative:shared\\migrations\\20240725094156_fimigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\shared\\migrations\\20240724155058_tmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|solutionrelative:shared\\migrations\\20240724155058_tmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\shared\\migrations\\20240724153903_smigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|solutionrelative:shared\\migrations\\20240724153903_smigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\shared\\migrations\\20240724100611_imigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|solutionrelative:shared\\migrations\\20240724100611_imigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|c:\\users\\luvuy\\onedrive\\documents\\githubprojects\\main\\cash-in-transit management system backend\\shared\\migrations\\20240730154647_changedmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633DF90-D99A-406F-982C-366E14147DB3}|Shared\\Shared.csproj|solutionrelative:shared\\migrations\\20240730154647_changedmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserVehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\Controllers\\UserVehicleController.cs",
+              "RelativeDocumentMoniker": "Cash-in-Transit Management System Backend\\Controllers\\UserVehicleController.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\Controllers\\UserVehicleController.cs",
+              "RelativeToolTip": "Cash-in-Transit Management System Backend\\Controllers\\UserVehicleController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAGYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:39:46.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Repository\\RouteRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\RouteRepository.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Repository\\RouteRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\RouteRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:44:47.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Repository\\ManagementRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\ManagementRepository.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Repository\\ManagementRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\ManagementRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:27:40.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IManagementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Interfaces\\IManagementRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Interfaces\\IManagementRepository.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Interfaces\\IManagementRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Interfaces\\IManagementRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwBIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:50:44.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Models\\User.cs",
+              "RelativeToolTip": "Shared\\Models\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:14:20.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Service\\ManagementService.cs",
+              "RelativeDocumentMoniker": "Business_Access_Layer\\Service\\ManagementService.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Service\\ManagementService.cs",
+              "RelativeToolTip": "Business_Access_Layer\\Service\\ManagementService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAEkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:30:48.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Repository\\AuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\AuthenticationRepository.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Repository\\AuthenticationRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\AuthenticationRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:30:45.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Service\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Business_Access_Layer\\Service\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Service\\AuthenticationService.cs",
+              "RelativeToolTip": "Business_Access_Layer\\Service\\AuthenticationService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAB0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:28:29.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "Cash-in-Transit Management System Backend\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "Cash-in-Transit Management System Backend\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:33:27.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IncidentController.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\Controllers\\IncidentController.cs",
+              "RelativeDocumentMoniker": "Cash-in-Transit Management System Backend\\Controllers\\IncidentController.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\Controllers\\IncidentController.cs",
+              "RelativeToolTip": "Cash-in-Transit Management System Backend\\Controllers\\IncidentController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAEIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T18:05:17.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240730154647_changedmigration.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Migrations\\20240730154647_changedmigration.cs",
+              "RelativeDocumentMoniker": "Shared\\Migrations\\20240730154647_changedmigration.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Migrations\\20240730154647_changedmigration.cs",
+              "RelativeToolTip": "Shared\\Migrations\\20240730154647_changedmigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:46:48.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RouteService.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Service\\RouteService.cs",
+              "RelativeDocumentMoniker": "Business_Access_Layer\\Service\\RouteService.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Service\\RouteService.cs",
+              "RelativeToolTip": "Business_Access_Layer\\Service\\RouteService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:34:50.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IncidentService.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Service\\IncidentService.cs",
+              "RelativeDocumentMoniker": "Business_Access_Layer\\Service\\IncidentService.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Service\\IncidentService.cs",
+              "RelativeToolTip": "Business_Access_Layer\\Service\\IncidentService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:43:19.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IncidentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Repository\\IncidentRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\IncidentRepository.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Repository\\IncidentRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\IncidentRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:41:20.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240730081517_chamigration.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Migrations\\20240730081517_chamigration.cs",
+              "RelativeDocumentMoniker": "Shared\\Migrations\\20240730081517_chamigration.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Migrations\\20240730081517_chamigration.cs",
+              "RelativeToolTip": "Shared\\Migrations\\20240730081517_chamigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:15:18.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Incident.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Models\\Incident.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Incident.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Models\\Incident.cs",
+              "RelativeToolTip": "Shared\\Models\\Incident.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:01:30.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IIncidentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Interfaces\\IIncidentRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Interfaces\\IIncidentRepository.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Interfaces\\IIncidentRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Interfaces\\IIncidentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:40:52.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Models\\Route.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Route.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Models\\Route.cs",
+              "RelativeToolTip": "Shared\\Models\\Route.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA6wBUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:47:03.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IIncidentService.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Interfaces\\IIncidentService.cs",
+              "RelativeDocumentMoniker": "Business_Access_Layer\\Interfaces\\IIncidentService.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Interfaces\\IIncidentService.cs",
+              "RelativeToolTip": "Business_Access_Layer\\Interfaces\\IIncidentService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:43:02.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRouteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Interfaces\\IRouteRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Interfaces\\IRouteRepository.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Interfaces\\IRouteRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Interfaces\\IRouteRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:11:19.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SchedulingController.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\Controllers\\SchedulingController.cs",
+              "RelativeDocumentMoniker": "Cash-in-Transit Management System Backend\\Controllers\\SchedulingController.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\Controllers\\SchedulingController.cs",
+              "RelativeToolTip": "Cash-in-Transit Management System Backend\\Controllers\\SchedulingController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAFcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:11:02.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RouteController.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\Controllers\\RouteController.cs",
+              "RelativeDocumentMoniker": "Cash-in-Transit Management System Backend\\Controllers\\RouteController.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\Controllers\\RouteController.cs",
+              "RelativeToolTip": "Cash-in-Transit Management System Backend\\Controllers\\RouteController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:51:39.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ISchedulingService.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Interfaces\\ISchedulingService.cs",
+              "RelativeDocumentMoniker": "Business_Access_Layer\\Interfaces\\ISchedulingService.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Interfaces\\ISchedulingService.cs",
+              "RelativeToolTip": "Business_Access_Layer\\Interfaces\\ISchedulingService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:06:56.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SchedulingService.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Service\\SchedulingService.cs",
+              "RelativeDocumentMoniker": "Business_Access_Layer\\Service\\SchedulingService.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Service\\SchedulingService.cs",
+              "RelativeToolTip": "Business_Access_Layer\\Service\\SchedulingService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:06:22.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SchedulingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Repository\\SchedulingRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\SchedulingRepository.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Repository\\SchedulingRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\SchedulingRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:08:11.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ISchedulingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Interfaces\\ISchedulingRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Interfaces\\ISchedulingRepository.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Interfaces\\ISchedulingRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Interfaces\\ISchedulingRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:07:52.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DataInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\DataInitializer.cs",
+              "RelativeDocumentMoniker": "Cash-in-Transit Management System Backend\\DataInitializer.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\DataInitializer.cs",
+              "RelativeToolTip": "Cash-in-Transit Management System Backend\\DataInitializer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:49:11.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Cash-in-Transit Management System Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\Program.cs",
+              "RelativeToolTip": "Cash-in-Transit Management System Backend\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:44:58.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Interfaces\\IManagementService.cs",
+              "RelativeDocumentMoniker": "Business_Access_Layer\\Interfaces\\IManagementService.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Interfaces\\IManagementService.cs",
+              "RelativeToolTip": "Business_Access_Layer\\Interfaces\\IManagementService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:44:48.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Interfaces\\IAuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Interfaces\\IAuthenticationRepository.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Data_Access_Layer\\Interfaces\\IAuthenticationRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Interfaces\\IAuthenticationRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:30:35.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRouteService.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Interfaces\\IRouteService.cs",
+              "RelativeDocumentMoniker": "Business_Access_Layer\\Interfaces\\IRouteService.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Interfaces\\IRouteService.cs",
+              "RelativeToolTip": "Business_Access_Layer\\Interfaces\\IRouteService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:45:03.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Interfaces\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Business_Access_Layer\\Interfaces\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Business_Access_Layer\\Interfaces\\IAuthenticationService.cs",
+              "RelativeToolTip": "Business_Access_Layer\\Interfaces\\IAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:33:01.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240725092331_FMigration.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Migrations\\20240725092331_FMigration.cs",
+              "RelativeDocumentMoniker": "Shared\\Migrations\\20240725092331_FMigration.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Migrations\\20240725092331_FMigration.cs",
+              "RelativeToolTip": "Shared\\Migrations\\20240725092331_FMigration.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:23:31.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240725094156_FiMigration.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Migrations\\20240725094156_FiMigration.cs",
+              "RelativeDocumentMoniker": "Shared\\Migrations\\20240725094156_FiMigration.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Migrations\\20240725094156_FiMigration.cs",
+              "RelativeToolTip": "Shared\\Migrations\\20240725094156_FiMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:41:56.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240724155058_TMigration.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Migrations\\20240724155058_TMigration.cs",
+              "RelativeDocumentMoniker": "Shared\\Migrations\\20240724155058_TMigration.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Migrations\\20240724155058_TMigration.cs",
+              "RelativeToolTip": "Shared\\Migrations\\20240724155058_TMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:50:58.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Shared\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Shared\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:16:44.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240724153903_SMigration.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Migrations\\20240724153903_SMigration.cs",
+              "RelativeDocumentMoniker": "Shared\\Migrations\\20240724153903_SMigration.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Migrations\\20240724153903_SMigration.cs",
+              "RelativeToolTip": "Shared\\Migrations\\20240724153903_SMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:39:03.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Pickup.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Models\\Pickup.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Pickup.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Models\\Pickup.cs",
+              "RelativeToolTip": "Shared\\Models\\Pickup.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:46:51.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240724100611_IMigration.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Migrations\\20240724100611_IMigration.cs",
+              "RelativeDocumentMoniker": "Shared\\Migrations\\20240724100611_IMigration.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Migrations\\20240724100611_IMigration.cs",
+              "RelativeToolTip": "Shared\\Migrations\\20240724100611_IMigration.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:06:11.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Models\\Delivery.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Delivery.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Models\\Delivery.cs",
+              "RelativeToolTip": "Shared\\Models\\Delivery.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:46:25.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Shared\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:48:16.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Credentials.cs",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Models\\Credentials.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Credentials.cs",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Shared\\Models\\Credentials.cs",
+              "RelativeToolTip": "Shared\\Models\\Credentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:50:49.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Cash-in-Transit Management System Backend\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\appsettings.Development.json",
+              "RelativeToolTip": "Cash-in-Transit Management System Backend\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T13:14:14.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Cash-in-Transit Management System Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\appsettings.json",
+              "RelativeToolTip": "Cash-in-Transit Management System Backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T15:30:54.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Cash-in-Transit Management System Backend.csproj",
+              "DocumentMoniker": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj",
+              "RelativeDocumentMoniker": "Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj",
+              "ToolTip": "C:\\Users\\luvuy\\OneDrive\\Documents\\GitHubProjects\\main\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj",
+              "RelativeToolTip": "Cash-in-Transit Management System Backend\\Cash-in-Transit Management System Backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T12:29:40.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

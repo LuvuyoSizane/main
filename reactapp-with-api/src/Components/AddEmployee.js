@@ -46,7 +46,7 @@ const handleSubmit =(e)=>{
                                     <div className="col-lg-12">
                                         <div className="form-group">
                                              <label>ID :</label>
-                                             <input type="number" className="form-control" value={id} onChange={e=>setId(e.target.value)} required ></input>
+                                             <input type="number" min={0} className="form-control" value={id} onChange={e=>setId(e.target.value)} required ></input>
                                         </div>
                                     </div>
                                     <div className="col-lg-12">

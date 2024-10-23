@@ -15,6 +15,7 @@ namespace Simple_API_Assessment.Data.Repository
 
         public void CreateApplicant(Applicant applcant)
         {
+
             _db.Applicants.Add(applcant);
             _db.SaveChanges();
         }
